@@ -8,6 +8,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+//测试第二次提交
+
 //测试操作Mongodb数据库中的数据(增删改查)   使用的是springdata的 MongoTemplate来操作
 @Controller
 public class MongoTestController {
